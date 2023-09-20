@@ -13,9 +13,10 @@
 ```
 # В вашей локальной копии переключитесь в ветку master
 git checkout master
-
+git p
+ull academy master
 # Заберите изменения из репозитория Академии¹
-git pull academy master
+
 
 # Отправьте изменения в ваш форк на Гитхабе
 git push
